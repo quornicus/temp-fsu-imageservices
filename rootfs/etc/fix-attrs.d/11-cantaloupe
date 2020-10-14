@@ -1,0 +1,4 @@
+/usr/local/cantaloupe true tomcat 0644 0755
+
+# Uncomment this line for use of Kakadu
+# /usr/local/cantaloupe/deps/Linux-x86-64/bin/kdu_expand true tomcat 0755
